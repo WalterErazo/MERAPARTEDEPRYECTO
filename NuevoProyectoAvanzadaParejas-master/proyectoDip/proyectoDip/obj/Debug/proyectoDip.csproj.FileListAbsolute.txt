@@ -1,0 +1,54 @@
+c:\users\diego\onedrive\documents\visual studio 2015\Projects\proyectoDip\proyectoDip\bin\Debug\proyectoDip.exe.config
+c:\users\diego\onedrive\documents\visual studio 2015\Projects\proyectoDip\proyectoDip\obj\Debug\proyectoDip.csprojResolveAssemblyReference.cache
+c:\users\diego\onedrive\documents\visual studio 2015\Projects\proyectoDip\proyectoDip\obj\Debug\proyectoDip.Form1.resources
+c:\users\diego\onedrive\documents\visual studio 2015\Projects\proyectoDip\proyectoDip\obj\Debug\proyectoDip.Properties.Resources.resources
+c:\users\diego\onedrive\documents\visual studio 2015\Projects\proyectoDip\proyectoDip\obj\Debug\proyectoDip.csproj.GenerateResource.Cache
+c:\users\diego\onedrive\documents\visual studio 2015\Projects\proyectoDip\proyectoDip\bin\Debug\proyectoDip.exe
+c:\users\diego\onedrive\documents\visual studio 2015\Projects\proyectoDip\proyectoDip\bin\Debug\proyectoDip.pdb
+c:\users\diego\onedrive\documents\visual studio 2015\Projects\proyectoDip\proyectoDip\obj\Debug\proyectoDip.exe
+c:\users\diego\onedrive\documents\visual studio 2015\Projects\proyectoDip\proyectoDip\obj\Debug\proyectoDip.pdb
+c:\users\diego\onedrive\documents\visual studio 2015\Projects\proyectoDip\proyectoDip\obj\Debug\proyectoDip.CrearU.resources
+c:\users\diego\onedrive\documents\visual studio 2015\Projects\proyectoDip\proyectoDip\obj\Debug\proyectoDip.modificar_usuario.resources
+C:\Users\diego\OneDrive\Documents\Visual Studio 2015\Projects\proyectoDip\proyectoDip\obj\Debug\proyectoDip.menu.resources
+C:\Users\diego\OneDrive\Documents\Visual Studio 2015\Projects\proyectoDip\proyectoDip\obj\Debug\proyectoDip.ModificarUsuario.resources
+C:\Users\Walter Erazo\Desktop\ProyectoAvanzada-master\proyectoDip\proyectoDip\bin\Debug\proyectoDip.exe.config
+C:\Users\Walter Erazo\Desktop\ProyectoAvanzada-master\proyectoDip\proyectoDip\obj\Debug\proyectoDip.exe
+C:\Users\Walter Erazo\Desktop\ProyectoAvanzada-master\proyectoDip\proyectoDip\obj\Debug\proyectoDip.pdb
+C:\Users\Walter Erazo\Desktop\ProyectoAvanzada-master\proyectoDip\proyectoDip\bin\Debug\proyectoDip.exe
+C:\Users\Walter Erazo\Desktop\ProyectoAvanzada-master\proyectoDip\proyectoDip\bin\Debug\proyectoDip.pdb
+C:\Users\Walter Erazo\Desktop\ProyectoAvanzada-master\proyectoDip\proyectoDip\obj\Debug\proyectoDip.csprojResolveAssemblyReference.cache
+C:\Users\Walter Erazo\Desktop\ProyectoAvanzada-master\proyectoDip\proyectoDip\obj\Debug\proyectoDip.CrearU.resources
+C:\Users\Walter Erazo\Desktop\ProyectoAvanzada-master\proyectoDip\proyectoDip\obj\Debug\proyectoDip.Form1.resources
+C:\Users\Walter Erazo\Desktop\ProyectoAvanzada-master\proyectoDip\proyectoDip\obj\Debug\proyectoDip.menu.resources
+C:\Users\Walter Erazo\Desktop\ProyectoAvanzada-master\proyectoDip\proyectoDip\obj\Debug\proyectoDip.modificar_usuario.resources
+C:\Users\Walter Erazo\Desktop\ProyectoAvanzada-master\proyectoDip\proyectoDip\obj\Debug\proyectoDip.Properties.Resources.resources
+C:\Users\Walter Erazo\Desktop\ProyectoAvanzada-master\proyectoDip\proyectoDip\obj\Debug\proyectoDip.csproj.GenerateResource.Cache
+C:\Users\Walter Erazo\Desktop\ProyectoAvanzada-master.Walter 04\proyectoDip\proyectoDip\bin\Debug\proyectoDip.exe.config
+C:\Users\Walter Erazo\Desktop\ProyectoAvanzada-master.Walter 04\proyectoDip\proyectoDip\obj\Debug\proyectoDip.exe
+C:\Users\Walter Erazo\Desktop\ProyectoAvanzada-master.Walter 04\proyectoDip\proyectoDip\obj\Debug\proyectoDip.pdb
+C:\Users\diego\Desktop\proyectoDip\proyectoDip\bin\Debug\proyectoDip.exe.config
+C:\Users\diego\Desktop\proyectoDip\proyectoDip\obj\Debug\proyectoDip.exe
+C:\Users\diego\Desktop\proyectoDip\proyectoDip\obj\Debug\proyectoDip.pdb
+C:\Users\diego\Desktop\proyectoDip\proyectoDip\bin\Debug\proyectoDip.exe
+C:\Users\diego\Desktop\proyectoDip\proyectoDip\bin\Debug\proyectoDip.pdb
+C:\Users\diego\Desktop\proyectoDip\proyectoDip\obj\Debug\proyectoDip.csprojResolveAssemblyReference.cache
+C:\Users\diego\Desktop\proyectoDip\proyectoDip\obj\Debug\proyectoDip.CrearU.resources
+C:\Users\diego\Desktop\proyectoDip\proyectoDip\obj\Debug\proyectoDip.Form1.resources
+C:\Users\diego\Desktop\proyectoDip\proyectoDip\obj\Debug\proyectoDip.menu.resources
+C:\Users\diego\Desktop\proyectoDip\proyectoDip\obj\Debug\proyectoDip.modificar_usuario.resources
+C:\Users\diego\Desktop\proyectoDip\proyectoDip\obj\Debug\proyectoDip.Properties.Resources.resources
+C:\Users\diego\Desktop\proyectoDip\proyectoDip\obj\Debug\proyectoDip.csproj.GenerateResource.Cache
+C:\Users\Walter Erazo\Desktop\NuevoProyectoAvanzadaParejas-master\proyectoDip\proyectoDip\bin\Debug\proyectoDip.exe.config
+C:\Users\Walter Erazo\Desktop\NuevoProyectoAvanzadaParejas-master\proyectoDip\proyectoDip\obj\Debug\proyectoDip.exe
+C:\Users\Walter Erazo\Desktop\NuevoProyectoAvanzadaParejas-master\proyectoDip\proyectoDip\obj\Debug\proyectoDip.pdb
+C:\Users\Walter Erazo\Desktop\NuevoProyectoAvanzadaParejas-master\proyectoDip\proyectoDip\obj\Debug\proyectoDip.csprojResolveAssemblyReference.cache
+C:\Users\Walter Erazo\Desktop\NuevoProyectoAvanzadaParejas-master\proyectoDip\proyectoDip\obj\Debug\proyectoDip.CrearLey.resources
+C:\Users\Walter Erazo\Desktop\NuevoProyectoAvanzadaParejas-master\proyectoDip\proyectoDip\obj\Debug\proyectoDip.CrearReglamento.resources
+C:\Users\Walter Erazo\Desktop\NuevoProyectoAvanzadaParejas-master\proyectoDip\proyectoDip\obj\Debug\proyectoDip.CrearU.resources
+C:\Users\Walter Erazo\Desktop\NuevoProyectoAvanzadaParejas-master\proyectoDip\proyectoDip\obj\Debug\proyectoDip.Form1.resources
+C:\Users\Walter Erazo\Desktop\NuevoProyectoAvanzadaParejas-master\proyectoDip\proyectoDip\obj\Debug\proyectoDip.menu.resources
+C:\Users\Walter Erazo\Desktop\NuevoProyectoAvanzadaParejas-master\proyectoDip\proyectoDip\obj\Debug\proyectoDip.modificar_usuario.resources
+C:\Users\Walter Erazo\Desktop\NuevoProyectoAvanzadaParejas-master\proyectoDip\proyectoDip\obj\Debug\proyectoDip.ModificarLey.resources
+C:\Users\Walter Erazo\Desktop\NuevoProyectoAvanzadaParejas-master\proyectoDip\proyectoDip\obj\Debug\proyectoDip.ModificarReglamento.resources
+C:\Users\Walter Erazo\Desktop\NuevoProyectoAvanzadaParejas-master\proyectoDip\proyectoDip\obj\Debug\proyectoDip.Properties.Resources.resources
+C:\Users\Walter Erazo\Desktop\NuevoProyectoAvanzadaParejas-master\proyectoDip\proyectoDip\obj\Debug\proyectoDip.csproj.GenerateResource.Cache
